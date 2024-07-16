@@ -1,4 +1,6 @@
 payload:
+  - '+.aiclk.com'
+  - '+.ads.heytapmobi.com'
   - '+.0.code.cotsta.ru'
   - '+.0.nextyourcontent.com'
   - '+.0008d6ba2e.com'
@@ -39731,6 +39733,8 @@ payload:
   - '+.log-api.cli.im'
   - '+.log-api.newrelic.com'
   - '+.log-api.pangolin-sdk-toutiao.com'
+  - '+.pangolin-sdk-toutiao.com'
+  - '+.pangolin-sdk-toutiao-b.com'
   - '+.log-collector.shopee.vn'
   - '+.log-dttc.sggp.org.vn'
   - '+.log-en.nhandan.vn'
